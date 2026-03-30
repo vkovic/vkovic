@@ -1,6 +1,6 @@
 # Hey, I'm Vladimir 👋
 
-**Senior Backend Engineer** · 15+ years · AI-augmented development
+**Senior Full Stack Engineer** · 15+ years · AI-augmented development
 
 I build backend systems and APIs that scale. PHP/Laravel is my main stack, paired with Docker/Kubernetes for infrastructure. Comfortable on the frontend with Vue.js and Tailwind CSS.
 
