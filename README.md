@@ -11,5 +11,3 @@ I build backend systems and APIs that scale. PHP/Laravel is my main stack, paire
 - 🏗️ Domain-Driven Design, system design, performance optimization
 - 🎨 Full stack when needed — Vue.js, TypeScript, Tailwind CSS, Inertia.js
 - 🐳 Docker, Kubernetes, CI/CD pipelines
-
-📍 Open to **fully remote** opportunities.
